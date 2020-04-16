@@ -12,7 +12,7 @@ import Tab from 'components/tab/tab'
 export default {
   components: {
     MHeader,
-    Tab,
+    Tab
   }
 }
 </script>

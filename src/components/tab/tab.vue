@@ -29,6 +29,7 @@ export default {}
     font-size: $font-size-medium
     .tab-item
       flex: 1
+      background: $color-background
       text-align: center
       .tab-link
         padding-bottom: 5px
